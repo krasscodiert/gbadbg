@@ -1,0 +1,4 @@
+/gui/imgui/
+/cmake-build-debug/
+/.idea/
+*desktop.ini
